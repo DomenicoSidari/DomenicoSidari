@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Domenico Sidari</h1>
 <h3 align="center">A passionate Data Analytics major at Miami Univeristy looking for an entry level job in Data Analysis</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domenicosidari" alt="domenicosidari" /></a> </p>
-
 - 🔭 I’m currently working on [N/A](N/A/L)
 
 - 🌱 I’m currently learning **N/A**
