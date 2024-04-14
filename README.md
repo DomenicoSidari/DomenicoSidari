@@ -1,4 +1,3 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmpZSGxVbm4zc3Y4SUdRWUpvV1FLUFVkckVkd3xBQ3Jtc0trOFJUTnRNWFp0Rlo1TDRHdjNMbkRha1p6Ump3bzVCbi15WWNhMnF2N1J3UTd4c1owdUNobV9aV3BCc1YtRGdjNGNGRFZGNE9RVG0zc21CSVFSM1cyZWw3N1prTTAxaHB0MjZRcGhSRU1lTzN3ZEtGMA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](N/A/L)
 <h1 align="center">Hi 👋, I'm Domenico Sidari</h1>
 <h3 align="center">A passionate Data Analytics major at Miami Univeristy looking for an entry level job in Data Analysis</h3>
 <img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”
